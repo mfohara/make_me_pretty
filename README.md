@@ -1,6 +1,9 @@
 # make_me_pretty
-HTML based workshop for beginners. "Code me like on of your french webpages."
+HTML based workshop for beginners.
 Week one, day one. Its time to code!!!!!
+
+`"Code me like one of your french webpages."`
+
 
 ## Objectives
 In this lesson we will be going over the basics of HTML and CSS. By the end of this lesson you should have a somewhat solid understanding of what both languages are used for and why they are so important.
