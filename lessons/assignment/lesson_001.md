@@ -11,4 +11,5 @@ All css must be done through the css/styles.css file, and all HTML or content mu
 
 ## resources
 
-Needs to add resources
+[W3 Schools]("http://www.w3schools.com/")
+[Code Academy]("https://www.codecademy.com/learn/web") For extracurricular study.
