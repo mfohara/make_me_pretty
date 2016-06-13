@@ -1,0 +1,118 @@
+
+body{
+  font-family: "Times New Roman";
+  padding: 0px;
+  margin: 0px;
+  color: #bfbfbf;
+  background-color: white;/*background-color: #ffffff*/
+  text-align: center;
+}
+
+.content_wrapper{
+
+  width: 100%;
+  text-align: center;
+  position: static;
+}
+
+.inner_header{
+
+}
+
+.inner_header #name{
+  font-size: 80px;
+  padding: 0px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-weight: lighter;
+}
+
+.inner_header #occupation{
+  font-size: 50px;
+  padding: 0px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  font-weight: lighter;
+}
+
+.header_container{
+  display: inline-block;
+  width: 1024px;
+  margin: auto;
+  height: 600px;
+  color: white;
+}
+
+#header{
+  background-color: #aaf1c3;
+}
+
+.arrow_container{
+ text-align: center;
+}
+
+.circle{
+  height: 140px;
+  width: 140px;
+  border: solid 3px #bfbfbf;
+  display: inline-block;
+  border-radius: 100%;
+  background-color: white;
+  margin: 50px;
+}
+
+#item01{
+  background-image: url("https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/5/13/1431525669456/Sushi-with-chopsticks-009.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+#item02{
+  background-image: url("http://netdna.webdesignerdepot.com/uploads/2012/11/code.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#item03{
+  background-image: url("http://ecx.images-amazon.com/images/I/51wjEhTn1cL._SY355_.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#arrow{
+  background-color: white;
+  overflow: hidden;
+  margin-top: -60px;
+  height: 100px;
+  width: 100px;
+}
+
+#arrow img{
+  height: 55px;
+  width: 75px;
+  padding-top: 25px;
+}
+
+.content_wrapper #desc_content{
+  width: 1024px;
+  margin: auto;
+  text-align: center;
+}
+
+.content_wrapper #desc_content #desc{
+  text-align: left;
+  line-height: 30px;
+  font-size: 25px;
+}
+
+.content_wrapper #desc_content #intro_image img{
+  height: 300px;
+  width: 300px;
+  margin-bottom: 50px;
+  border: solid 3px #bfbfbf;
+  border-radius: 30px;
+  box-shadow: 4px 4px 3px #9f9f9f;
+}
